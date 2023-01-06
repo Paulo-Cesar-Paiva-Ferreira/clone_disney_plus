@@ -1,0 +1,26 @@
+{
+  "name": "clone_disney_plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo-Cesar-Paiva-Ferreira/clone_disney_plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo-Cesar-Paiva-Ferreira/clone_disney_plus/issues"
+  },
+  "homepage": "https://github.com/Paulo-Cesar-Paiva-Ferreira/clone_disney_plus#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
